@@ -1,1 +1,1 @@
-# rpsgame
+# rps-ant
